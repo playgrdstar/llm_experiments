@@ -1,0 +1,5 @@
+langchain
+pypdf
+pymupdf
+sentence-transformers
+chromadb
